@@ -83,13 +83,6 @@ This project is a Python-based system designed to manage course scheduling, stud
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-For any questions or feedback, please reach out to [your email address].
 
 **Note**: Replace placeholders like `yourusername`, `your email address`, and adjust the example data as needed.
 
