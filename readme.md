@@ -41,7 +41,7 @@ This project is a Python-based system designed to manage course scheduling, stud
 
 2. **Run the Script**:
    ```bash
-   python main.py
+   python test.py
    ```
 
 3. **Output Files**:
