@@ -22,7 +22,7 @@ This project is a Python-based system designed to manage course scheduling, stud
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/course-scheduling-system.git
+   https://github.com/amankappooresabu/course-scheduling-system.git
    cd course-scheduling-system
    ```
 
